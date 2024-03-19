@@ -145,7 +145,7 @@ text-align: center;
 h1 {
 	/* <link rel="stylesheet" href="https://use.typekit.net/iza6dxz.css"> */
 	font-family: "piepie", sans-serif;
-	font-size: 2em;
+	font-size: 2.3em;
     margin: 0px auto 10px auto;
     color: rgb(107, 161, 178);
 }
@@ -162,19 +162,23 @@ h2 {
 
 p {
 	/* <link rel="stylesheet" href="https://use.typekit.net/iza6dxz.css"> */
-	font-family: "aptly", sans-serif;
-	font-size: 1.2em;
+	font-family: "forma-djr-display", sans-serif;
+	font-weight: 510;
+	font-style: normal;
+	font-size: 1.3em;
     line-height: 1.6;
     color: rgb(107, 161, 178);
 }
 nav{
-	font-family: "piepie", sans-serif;
-	font-size: 1.2em;
+	font-family: "forma-djr-display", sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 1.6em;
 	width: 80%; /*------ This is for responsiveness ------*/
 	margin: 0 auto; /*------ This centers the entire nav element inside the center div ------ border: dashed turquoise;*/
 	border-width: 3px 0; /*------ This puts a 3 pixel border on the top and bottom of the nav element, the zero eliminates the left and right sides of the border ------*/
 	text-align: center;
-	margin-top: 1.5em; /*------ This adds a bit of space above the nav element ------*/
+	margin-top: 1.2em; /*------ This adds a bit of space above the nav element ------*/
 }
 
 nav li{
